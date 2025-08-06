@@ -1,0 +1,10 @@
+Aysenur Laklak,1,K,123
+Mehmet Ozturk,3,E,124
+Berke Akbay,2,E,125
+Bertug Ozcelik,4,E,126
+Damla Oner,3,K,127
+Ceren Ilkin,4,K,128
+Asude Orhan,1,K,129
+Merve Erkul,4,K,130
+Sahin Kavsara,2,E,131
+Ahmet Akin,3,E,132
