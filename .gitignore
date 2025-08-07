@@ -1,0 +1,26 @@
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.obj
+*.exe
+*.log
+*.tlog
+*.pch
+
+## Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.suo
+*.user
+*.opensdf
+*.sdf
+.vs/
+
+## Others
+*.ipch
+*.cache
+*.pdb
+*.db
