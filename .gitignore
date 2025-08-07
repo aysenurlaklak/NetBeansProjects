@@ -1,26 +1,25 @@
-## Build results
-[Dd]ebug/
-[Rr]elease/
-x64/
-*.obj
-*.exe
+# Build
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/nbactions.xml
+
+# NetBeans project-specific
+/nbproject/private/
+/nbproject/Makefile-*.mk
+
+# Compiled class files
+*.class
+
+# Generated files
+*.jar
+*.war
+*.ear
+
+# Logs
 *.log
-*.tlog
-*.pch
 
-## Visual Studio files
-*.sln
-*.vcxproj
-*.vcxproj.filters
-*.vcxproj.user
-*.suo
-*.user
-*.opensdf
-*.sdf
-.vs/
-
-## Others
-*.ipch
-*.cache
-*.pdb
-*.db
+# OS files
+.DS_Store
+Thumbs.db
